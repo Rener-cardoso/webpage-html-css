@@ -1,1 +1,1 @@
-### Aplicação de webpage de empresa de decoração!!
+### Aplicação de webpage de empresa ficticia de decoração!!
